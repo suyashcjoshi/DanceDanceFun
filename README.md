@@ -9,7 +9,7 @@ This is a fun game around having fun while dancing to get you moving and having 
 
 ### Technologies
 
-1. Unity
+1. Unity version 22.3.11f1
 2. Computer Vision
 
 
